@@ -1,6 +1,18 @@
 # Selection-Sort-Projesi
 bu bir patika projesidir!
 
+******
+[22,27,16,2,18,6] -> Insertion Sort
+
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
+[22, 27, 16, 2, 18, 6] -> Insertion Sort
+
+1.Adım   [22, 27, 16, 2, 18, 6]
+2.Adım   [2, 22, 27, 16, 18, 6]
+3.Adım   [2, 16, 22, 27, 18, 6]
+4.Adım   [2, 16, 18, 22, 27, 6]
+5.Adım   [2, 6, 16, 18, 22, 27]
 
 ******
 Big-O gösterimini yazınız.
